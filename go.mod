@@ -84,3 +84,5 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.5.0 // indirect
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
+
+replace github.com/webdevops/go-common v0.0.0-20250202124351-b61548f2447b => github.com/lukaspj/go-common v0.0.0-20250327201306-7b3d161e692f
